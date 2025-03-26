@@ -99,3 +99,15 @@ struct varray{
 	}
 };
 ```
+
+### Compile
+
+Create visual studio solution files:
+
+```
+mkdir build
+cd build
+cmake ..
+```
+
+Then compile and run in visual studio.
